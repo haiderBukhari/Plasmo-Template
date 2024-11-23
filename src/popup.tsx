@@ -9,7 +9,7 @@ function IndexPopup() {
         display: "flex",
         flexDirection: "column",
         padding: 16
-      }}>
+      }} className="w-[400px] h-auto">
       <h1>
         Welcome to your <a href="https://www.plasmo.com">Plasmo</a> Extension!
       </h1>
